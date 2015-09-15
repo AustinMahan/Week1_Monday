@@ -1,4 +1,4 @@
-#Welcome to JS Workshop Day One !!
+Austin Mahan
 
 ##Outline for Monday 9/14
 - Introductions
