@@ -1,4 +1,4 @@
-Austin Mahan
+Austin Mahan!
 
 ##Outline for Monday 9/14
 - Introductions
